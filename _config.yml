@@ -1,0 +1,14 @@
+layout_spectrum: 0.2430026
+typography_spectrum: 0.7622544
+color:
+  saturation: 0.4063229
+  lightness: 0.3530664
+  brandStrength: 0.1007539
+  rhythmicContrast: 0.2110729
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: DYAD
